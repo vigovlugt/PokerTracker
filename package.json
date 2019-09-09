@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@types/next": "^8.0.6",
+    "@types/react": "^16.9.2",
+    "@types/react-dom": "^16.9.0",
+    "firebase": "^6.6.0",
+    "next": "^9.0.5",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "typescript": "^3.6.2"
+  },
+  "name": "PokerTracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vigovlugt/PokerTracker.git",
+  "author": "vigovlugt <vigo@vlugt.net>",
+  "license": "MIT"
+}
